@@ -21,7 +21,7 @@ Copy/paste this into your GitHub README (or save as README.html)
     <li>
       <strong>A Novel Hybrid Approach Using an Attention-Based Transformer + GRU Model for Predicting Cryptocurrency Prices</strong><br />
       E. Mahdi, C. Martin-Barreiro, X. Cabezas<br />
-      <em>Mathematics</em> 13, 1484
+      <em>Mathematics</em> 13(5), 1484
     </li>
     <li>
       <strong>New mixed portmanteau tests for time series models</strong><br />
