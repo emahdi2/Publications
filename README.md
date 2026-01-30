@@ -18,19 +18,16 @@ Copy/paste this into your GitHub README (or save as README.html)
   <h2>📝 List of Publications</h2>
 
   <ol>
-
     <li>
       <strong>A Novel Hybrid Approach Using an Attention-Based Transformer + GRU Model for Predicting Cryptocurrency Prices</strong><br />
       E. Mahdi, C. Martin-Barreiro, X. Cabezas<br />
       <em>Mathematics</em> 13 (?), 1484
     </li>
-
     <li>
       <strong>New mixed portmanteau tests for time series models</strong><br />
       E. Mahdi<br />
       <em>Statistics and Computing</em> 34 (2), 76
     </li>
-
     <li>
       <strong>The hypergeometric distribution: Characterization, mathematical methods, simulations, and applications in sciences and engineering</strong><br />
       M. Díaz-Rodríguez, V. Leiva, C. Martin-Barreiro, X. Cabezas, E. Mahdi<br />
