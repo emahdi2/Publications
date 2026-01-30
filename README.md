@@ -124,13 +124,11 @@ Copy/paste this into your GitHub README (or save as README.html)
 
   <h2>🔗 Profiles</h2>
   <ul>
-    <li><strong>Google Scholar:</strong> <em>(add your link here)</em></li>
+    <li><strong>Google Scholar:</strong> <em>[(add your link here)]https://scholar.google.com/citations?user=l-FLtSsAAAAJ&hl=en</em></li>
     <li><strong>ORCID:</strong> <em>(add your link here)</em></li>
-    <li><strong>ResearchGate:</strong> <em>(add your link here)</em></li>
   </ul>
 
-  <p style="font-size: 0.95em; color: #555;">
-    <em>Note:</em> If you would like, I can also format this list in APA/IEEE style,
+  <p style="font-size: 0.95em; color: #555;">    <em>Note:</em> If you would like, I can also format this list in APA/IEEE style,
     or split it into “Journal Articles”, “Preprints”, “Software”, and “Conference Papers”.
   </p>
 
