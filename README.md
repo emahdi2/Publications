@@ -125,7 +125,7 @@ Copy/paste this into your GitHub README (or save as README.html)
   <h2>🔗 Profiles</h2>
   <ul>
     <li><strong>Google Scholar:</strong> <em>https://scholar.google.com/citations?user=l-FLtSsAAAAJ&hl=en</em></li>
-    <li><strong>ORCID:</strong> <em>orcid.org/0000-0002-3447-0639</em></li>
+    <li><strong>ORCID:</strong> <em>https://orcid.org/0000-0002-3447-0639</em></li>
   </ul>
 
 </div>
